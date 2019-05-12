@@ -1,0 +1,7 @@
+*.key
+key.cfg
+credentials.cfg
+
+# Common editors
+.vscode/
+.idea/
