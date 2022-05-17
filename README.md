@@ -20,6 +20,12 @@ key data
 
 Create `key.cfg` from the template file and replace `key` with your Aplos client ID.
 
+## Required Modules
+Modules can be installed using the requirements.txt file.
+
+```pip3 install -r requirements.txt```
+
+
 ## References
 
 * [Requests HTTP Library](https://2.python-requests.org/en/master/)
