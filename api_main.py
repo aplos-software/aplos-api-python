@@ -11,7 +11,7 @@ import base64
 
 config_file = 'key.cfg'
 key_file = 'private.key'
-aplos_domain = "www.aplos.com"
+aplos_domain = "app.aplos.com"
 auth_route = "hermes/api/v1/auth"
 accounts_route = "hermes/api/v1/accounts"
 payables_route = "hermes/api/v1/payables"
